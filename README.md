@@ -44,4 +44,3 @@ Operations Supported
 on your stored coordinates
 2. Create and manage users under companies
 3. Migrating a user to another company
-#w/effy/hiring
